@@ -1,0 +1,88 @@
+name: Build linux-aarch64 dependencies
+
+on:
+  schedule:
+    # Runs 30 min past every 12 h
+    - cron: "30 */12 * * *"
+  workflow_run:
+    workflows: ["Build win32-aarch64 dependencies"]
+    branches: [main]
+    types:
+      - completed
+  workflow_dispatch:
+
+# Prevent concurrent auto-commits
+concurrency:
+  group: auto-commit-linux-aarch64
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - name: Install clang
+        uses: rlalik/setup-cpp-compiler@master
+        with:
+          compiler: clang-latest
+      - name: Install tree-sitter
+        uses: tree-sitter/setup-action@v2
+      - name: Install Lua
+        uses: luarocks/gh-actions-lua@master
+        with:
+          luaVersion: "5.1"
+      - name: Install Luarocks
+        uses: luarocks/gh-actions-luarocks@master
+      - uses: rhysd/action-setup-vim@v1
+        with:
+          neovim: true
+          version: stable
+      - name: Get tree-sitter ABI version
+        run: |
+          # NOTE: Neovim prints output to stderr
+          ABI_VERSION="$(nvim -u NORC -c 'lua print(vim.treesitter.language_version)' --headless +q 2>&1)"
+          echo "TREE_SITTER_LANGUAGE_VERSION=$ABI_VERSION" >> $GITHUB_ENV
+      - name: Print environment
+        run: |
+          printenv
+      - name: Install `tree-sitter-orgmode` Package
+        if: always()
+        run: ./scripts/pack_binary_rock.lua tree-sitter-orgmode linux-aarch64
+      - name: Install `tree-sitter-norg` Package
+        if: always()
+        run: ./scripts/pack_binary_rock.lua tree-sitter-norg linux-aarch64
+        env:
+          CXX: "clang++"
+      - name: Install `tree-sitter-norg-meta` Package
+        if: always()
+        run: ./scripts/pack_binary_rock.lua tree-sitter-norg-meta linux-aarch64
+      - name: Get tree-sitter-parsers.json
+        if: always()
+        uses: actions/checkout@v4
+        with:
+          repository: nvim-neorocks/nurr
+          sparse-checkout: |
+            tree-sitter-parsers.json
+          path: nurr
+      - name: Install tree-sitter parsers
+        if: always()
+        run: |
+          # Filter out parsers that need their sources generated
+          # We might want to consider adding those too
+          langs=$(jq -r '.parsers[] | select((.install_info.requires_generate_from_grammar // false) == false) | .lang' nurr/tree-sitter-parsers.json)
+          for lang in $langs; do
+            ./scripts/pack_binary_rock.lua "tree-sitter-$lang" "linux-aarch64" \
+              || echo "Skipping tree-sitter-$lang"
+          done
+
+      - name: Regenerate Manifests and HTML
+        if: always()
+        run: luarocks-admin make-manifest --lua-version=5.1 .
+      - name: commit-linux-aarch64
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update linux-aarch64 build artifacts"
+          file_pattern: "*.linux-aarch64.rock *.all.rock manifest* index.html"
