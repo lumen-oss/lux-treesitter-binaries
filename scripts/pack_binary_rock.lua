@@ -62,7 +62,9 @@ if not latest_version then
 end
 
 local manifest = {}
-loadfile("manifest-5.1", "t", manifest)()
+if vim.uv.fs_stat("manifest-5.1") then
+  loadfile("manifest-5.1", "t", manifest)()
+end
 
 local packed_versions = vim.iter(manifest.repository[rock_name] or {})
   :fold({}, function(acc, version, architectures)
