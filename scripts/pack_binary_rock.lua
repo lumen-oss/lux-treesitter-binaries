@@ -61,7 +61,9 @@ if not latest_version then
   error("Could not determine latest version of " .. rock_name)
 end
 
-local manifest = {}
+local manifest = {
+  repository = {}
+}
 if vim.uv.fs_stat("manifest-5.1") then
   loadfile("manifest-5.1", "t", manifest)()
 end
