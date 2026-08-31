@@ -14,20 +14,20 @@ repository = {
    ["tree-sitter-agda"] = {
       ["0.0.32-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-angular"] = {
       ["0.0.50-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -44,10 +44,10 @@ repository = {
    ["tree-sitter-arduino"] = {
       ["0.0.36-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -74,40 +74,40 @@ repository = {
    ["tree-sitter-authzed"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-awk"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-bash"] = {
       ["0.0.50-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-bass"] = {
       ["0.0.30-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -144,10 +144,10 @@ repository = {
    ["tree-sitter-bitbake"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -184,10 +184,10 @@ repository = {
    ["tree-sitter-brightscript"] = {
       ["0.0.4-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -204,30 +204,30 @@ repository = {
    ["tree-sitter-c3"] = {
       ["0.0.19-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-c_sharp"] = {
       ["0.0.52-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-caddy"] = {
       ["0.0.2-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -264,10 +264,10 @@ repository = {
    ["tree-sitter-circom"] = {
       ["0.0.2-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -284,10 +284,10 @@ repository = {
    ["tree-sitter-cmake"] = {
       ["0.0.41-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -314,10 +314,10 @@ repository = {
    ["tree-sitter-cooklang"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -334,20 +334,20 @@ repository = {
    ["tree-sitter-cpon"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-cpp"] = {
       ["0.0.50-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -374,20 +374,20 @@ repository = {
    ["tree-sitter-cuda"] = {
       ["0.0.32-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-cue"] = {
       ["0.0.33-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -424,10 +424,10 @@ repository = {
    ["tree-sitter-desktop"] = {
       ["0.0.40-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -454,10 +454,10 @@ repository = {
    ["tree-sitter-diff"] = {
       ["0.0.43-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -474,30 +474,30 @@ repository = {
    ["tree-sitter-djot"] = {
       ["0.0.37-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-dockerfile"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-dot"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -524,20 +524,20 @@ repository = {
    ["tree-sitter-earthfile"] = {
       ["0.0.40-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-ebnf"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -561,30 +561,30 @@ repository = {
    ["tree-sitter-eds"] = {
       ["0.0.30-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-eex"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-elixir"] = {
       ["0.0.47-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -611,10 +611,10 @@ repository = {
    ["tree-sitter-elvish"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -631,10 +631,10 @@ repository = {
    ["tree-sitter-enforce"] = {
       ["0.0.15-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -651,10 +651,10 @@ repository = {
    ["tree-sitter-facility"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -671,20 +671,20 @@ repository = {
    ["tree-sitter-fennel"] = {
       ["0.0.37-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-fidl"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -711,40 +711,40 @@ repository = {
    ["tree-sitter-foam"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-forth"] = {
       ["0.0.31-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-fortran"] = {
       ["0.0.61-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-fsh"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -761,20 +761,20 @@ repository = {
    ["tree-sitter-func"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-gap"] = {
       ["0.0.35-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -851,10 +851,10 @@ repository = {
    ["tree-sitter-gitignore"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -901,10 +901,10 @@ repository = {
    ["tree-sitter-glsl"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -931,10 +931,10 @@ repository = {
    ["tree-sitter-go"] = {
       ["0.0.44-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -951,10 +951,10 @@ repository = {
    ["tree-sitter-godot_resource"] = {
       ["0.0.36-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -981,10 +981,10 @@ repository = {
    ["tree-sitter-gotmpl"] = {
       ["0.0.43-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1051,10 +1051,10 @@ repository = {
    ["tree-sitter-gstlaunch"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1081,10 +1081,10 @@ repository = {
    ["tree-sitter-haskell"] = {
       ["0.0.41-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1121,30 +1121,30 @@ repository = {
    ["tree-sitter-helm"] = {
       ["0.0.42-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-hjson"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-hlsl"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1161,20 +1161,20 @@ repository = {
    ["tree-sitter-hoon"] = {
       ["0.0.32-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-html"] = {
       ["0.0.40-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1188,30 +1188,30 @@ repository = {
    ["tree-sitter-htmldjango"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-http"] = {
       ["0.0.37-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-hurl"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1238,10 +1238,10 @@ repository = {
    ["tree-sitter-idris"] = {
       ["0.0.1-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1268,20 +1268,20 @@ repository = {
    ["tree-sitter-ispc"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-janet_simple"] = {
       ["0.0.37-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1308,30 +1308,30 @@ repository = {
    ["tree-sitter-javascript"] = {
       ["0.0.41-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-jinja"] = {
       ["0.0.13-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-jinja_inline"] = {
       ["0.0.19-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1348,10 +1348,10 @@ repository = {
    ["tree-sitter-jq"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1378,10 +1378,10 @@ repository = {
    ["tree-sitter-json5"] = {
       ["0.0.33-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1435,20 +1435,20 @@ repository = {
    ["tree-sitter-kconfig"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-kdl"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1475,10 +1475,10 @@ repository = {
    ["tree-sitter-kotlin"] = {
       ["0.0.48-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1525,40 +1525,40 @@ repository = {
    ["tree-sitter-ledger"] = {
       ["0.0.37-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-leo"] = {
       ["0.0.33-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-linkerscript"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-liquid"] = {
       ["0.0.37-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1585,20 +1585,20 @@ repository = {
    ["tree-sitter-lua"] = {
       ["0.0.44-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-luadoc"] = {
       ["0.0.31-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1615,20 +1615,20 @@ repository = {
    ["tree-sitter-luau"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-m68k"] = {
       ["0.0.30-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1675,10 +1675,10 @@ repository = {
    ["tree-sitter-menhir"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1695,110 +1695,110 @@ repository = {
    ["tree-sitter-meson"] = {
       ["0.0.44-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-mlir"] = {
       ["0.0.106-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-nasm"] = {
       ["0.0.30-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-nginx"] = {
       ["0.0.32-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-nickel"] = {
       ["0.0.40-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-nim"] = {
       ["0.0.34-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-nim_format_string"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-ninja"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-nix"] = {
       ["0.0.71-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-norg"] = {
       ["0.2.6-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-norg-meta"] = {
       ["0.1.0-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1835,20 +1835,20 @@ repository = {
    ["tree-sitter-objdump"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-ocaml"] = {
       ["0.0.49-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1875,10 +1875,10 @@ repository = {
    ["tree-sitter-odin"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1895,20 +1895,20 @@ repository = {
    ["tree-sitter-pascal"] = {
       ["0.0.34-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-passwd"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -1955,10 +1955,10 @@ repository = {
    ["tree-sitter-phpdoc"] = {
       ["0.0.33-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -1982,10 +1982,10 @@ repository = {
    ["tree-sitter-po"] = {
       ["0.0.29-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2012,10 +2012,10 @@ repository = {
    ["tree-sitter-pony"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2102,10 +2102,10 @@ repository = {
    ["tree-sitter-pug"] = {
       ["0.0.30-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2132,30 +2132,30 @@ repository = {
    ["tree-sitter-pymanifest"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-python"] = {
       ["0.0.57-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-ql"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2172,30 +2172,30 @@ repository = {
    ["tree-sitter-qmljs"] = {
       ["0.0.34-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-query"] = {
       ["0.0.50-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-r"] = {
       ["0.0.42-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2222,10 +2222,10 @@ repository = {
    ["tree-sitter-rasi"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2252,10 +2252,10 @@ repository = {
    ["tree-sitter-re2c"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2282,20 +2282,20 @@ repository = {
    ["tree-sitter-rego"] = {
       ["0.0.32-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-requirements"] = {
       ["0.0.32-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2312,30 +2312,30 @@ repository = {
    ["tree-sitter-rifleconf"] = {
       ["0.0.4-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-rnoweb"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-robot"] = {
       ["0.0.36-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2352,10 +2352,10 @@ repository = {
    ["tree-sitter-roc"] = {
       ["0.0.40-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2372,10 +2372,10 @@ repository = {
    ["tree-sitter-rst"] = {
       ["0.0.34-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2402,10 +2402,10 @@ repository = {
    ["tree-sitter-rust"] = {
       ["0.0.59-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2422,10 +2422,10 @@ repository = {
    ["tree-sitter-scfg"] = {
       ["0.0.31-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2462,10 +2462,10 @@ repository = {
    ["tree-sitter-slang"] = {
       ["0.0.36-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2502,30 +2502,30 @@ repository = {
    ["tree-sitter-smithy"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-snakemake"] = {
       ["0.0.35-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-snl"] = {
       ["0.0.2-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2542,10 +2542,10 @@ repository = {
    ["tree-sitter-soql"] = {
       ["0.0.48-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2572,40 +2572,40 @@ repository = {
    ["tree-sitter-sparql"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-sproto"] = {
       ["0.0.2-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-sql"] = {
       ["0.0.55-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-squirrel"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2622,10 +2622,10 @@ repository = {
    ["tree-sitter-starlark"] = {
       ["0.0.33-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2642,10 +2642,10 @@ repository = {
    ["tree-sitter-styled"] = {
       ["0.0.33-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2662,40 +2662,40 @@ repository = {
    ["tree-sitter-superhtml"] = {
       ["0.0.37-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-surface"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-svelte"] = {
       ["0.0.33-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-sway"] = {
       ["0.0.5-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2712,10 +2712,10 @@ repository = {
    ["tree-sitter-sxhkdrc"] = {
       ["0.0.30-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2762,30 +2762,30 @@ repository = {
    ["tree-sitter-tact"] = {
       ["0.0.39-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-tcl"] = {
       ["0.0.38-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-teal"] = {
       ["0.0.37-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2812,10 +2812,10 @@ repository = {
    ["tree-sitter-terraform"] = {
       ["0.0.36-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2842,20 +2842,20 @@ repository = {
    ["tree-sitter-tiger"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-tlaplus"] = {
       ["0.0.40-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2892,10 +2892,10 @@ repository = {
    ["tree-sitter-tsx"] = {
       ["0.0.37-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2932,20 +2932,20 @@ repository = {
    ["tree-sitter-typespec"] = {
       ["0.0.36-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-typoscript"] = {
       ["0.0.34-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -2962,10 +2962,10 @@ repository = {
    ["tree-sitter-udev"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -2982,20 +2982,20 @@ repository = {
    ["tree-sitter-unison"] = {
       ["0.0.38-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-usd"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -3012,10 +3012,10 @@ repository = {
    ["tree-sitter-v"] = {
       ["0.0.56-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -3072,20 +3072,20 @@ repository = {
    ["tree-sitter-vimdoc"] = {
       ["0.0.40-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-vrl"] = {
       ["0.0.29-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -3102,20 +3102,20 @@ repository = {
    ["tree-sitter-wgsl"] = {
       ["0.0.31-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-wgsl_bevy"] = {
       ["0.0.32-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -3132,30 +3132,30 @@ repository = {
    ["tree-sitter-wit"] = {
       ["0.0.41-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
    ["tree-sitter-wxml"] = {
       ["0.0.3-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
    ["tree-sitter-xcompose"] = {
       ["0.0.30-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -3172,10 +3172,10 @@ repository = {
    ["tree-sitter-xresources"] = {
       ["0.0.49-1"] = {
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          },
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          }
       }
    },
@@ -3202,10 +3202,10 @@ repository = {
    ["tree-sitter-yuck"] = {
       ["0.0.31-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    },
@@ -3242,10 +3242,10 @@ repository = {
    ["tree-sitter-zsh"] = {
       ["0.0.19-1"] = {
          {
-            arch = "linux-x86_64"
+            arch = "macosx-aarch64"
          },
          {
-            arch = "macosx-aarch64"
+            arch = "linux-x86_64"
          }
       }
    }
